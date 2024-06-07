@@ -8,7 +8,7 @@
 
 /* 2. The image of Pikachu should have a width of 200px */
 .pikachu-img {
-    width: 20px;
+    width: 200px;
 }
 
 /* 3. Something is off with our selector. */
@@ -19,11 +19,11 @@ pokemon-list {
 /* 4. The link to the Pokémon Website should have a text color of blue */
 .pokemon-link {
     font-weight: bold; 
-    background-color: red;
+    color: blue;
 }
 
 /* 5. Something is off with our selector. */
-.pikachuparagraph {
+.pikachu-paragraph {
     color: yellow;
     font-style: italic;
 }
